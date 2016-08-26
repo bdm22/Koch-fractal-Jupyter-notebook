@@ -1,0 +1,5 @@
+click
+math
+numpy
+matplotlib
+ipywidgets
